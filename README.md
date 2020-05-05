@@ -4,7 +4,7 @@ Egg Timer app. Shows three various degrees of egg boiling: from 5 to 12 minutes.
 
 The main goal was to learn how to use Timer, AVAudioPlayer and ProgressView.
 
-This is an app I made learning iOS 13 & Swift 5 course by Angela Yu
+### This is an app I made learning iOS 13 & Swift 5 course by Angela Yu
 
 (https://www.udemy.com/course/ios-13-app-development-bootcamp).
 
